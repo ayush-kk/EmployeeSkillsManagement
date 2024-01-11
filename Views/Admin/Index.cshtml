@@ -1,0 +1,33 @@
+@model List<EmployeeSkillManagement.Models.Admin>
+
+<div class="container mt-5">
+    <h1>Admin List</h1>
+
+    <table class="table table-bordered">
+        <thead class="thead-dark">
+            <tr>
+                <th>Admin ID</th>
+                <th>Email</th>
+                <th>Password</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var admin in Model)
+            {
+                <tr>
+                    <td>@admin.Id</td>
+                    <td>@admin.Email</td>
+                    <td>@Html.DisplayFor(model => admin.PASSWORD)</td>
+                    <td>
+                        <a type="button" class="btn btn-warning" asp-area="" asp-controller="Admin"
+                            asp-route-id="@admin.Id" asp-action="Edit">Edit</a>
+                        <a type="button" class="btn btn-danger" asp-area="" asp-controller="Admin"
+                            asp-route-id="@admin.Id" asp-action="Delete">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <a type="button" class="btn btn-danger" asp-area="" asp-controller="Admin" asp-action="Create">Create Admin</a>
+</div>

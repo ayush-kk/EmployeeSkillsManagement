@@ -1,0 +1,21 @@
+/* Light mode styles */
+body {
+  background-color: #fff;
+  color: #000;
+}
+
+/* Dark mode styles */
+body.dark-mode {
+  background-color: #333;
+  color: #fff;
+}
+
+/* Table styles for dark mode */
+body.dark-mode table {
+  color: #fff; /* Text color for the table content */
+}
+
+/* Additional styling for other table elements like headers, borders, etc. */
+body.dark-mode table th {
+  background-color: #555; /* Background color for table headers in dark mode */
+}

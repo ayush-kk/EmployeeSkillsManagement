@@ -1,0 +1,202 @@
+@model List<EmployeeSkillManagement.Models.EmployeeSkill>
+
+<div class="card-display">
+    <div class="container">
+        <div class="row justify-content-around">
+            @foreach (var skill in Model)
+            {
+                <div class="col-md-4 mb-4" data-employee-id="@skill.EmployeeId" data-skill-id="@skill.SkillId">
+                    <div class="card border-white">
+                        <div class="face face1">
+                            <div class="content">
+                                <h3>@skill.Skill.SkillName</h3>
+                            </div>
+                        </div>
+                        <div class="face face2">
+                            <div class="content">
+                                @if (skill.IsPrimary)
+                                {
+                                    <span class="fa fa-star checked"></span>
+                                    <p>Rating: @skill.Rating</p>
+                                }
+                                else
+                                {
+                                    <p>Rating: @skill.Rating</p>
+                                }
+                                <p>Years of Experience: @skill.YearsOfExperience</p>
+
+                                <!-- Delete Skill Confirmation Modal Trigger Button -->
+                                <button type="button" class="btn btn-danger"
+                                    onclick="openDeleteSkillModal('@skill.Skill.SkillName', '@skill.EmployeeId', '@skill.SkillId')">
+                                    Delete
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+
+    <!-- Delete Skill Confirmation Modal -->
+    <div class="modal fade" id="deleteSkillModal" tabindex="-1" aria-labelledby="deleteSkillModalLabel"
+        aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="deleteSkillModalLabel">Delete Skill Confirmation</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <p>Are you sure you want to delete this skill?</p>
+                    <p>Skill Name: <span id="skillNameToDelete"></span></p>
+                </div>
+                <div class="modal-footer">
+                    <!-- Submit the form when "Delete" button is clicked -->
+                    <form id="deleteSkillForm" asp-action="DeleteSkill" method="post">
+                        <input type="hidden" name="employeeId" value="" />
+                        <input type="hidden" name="skillId" value="" />
+                        @Html.AntiForgeryToken() <!-- Add this line if using AntiForgeryToken -->
+                        <input type="submit" value="Delete" class="btn btn-danger" />
+                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+@section scripts {
+    <script>
+        function openDeleteSkillModal(skillName, employeeId, skillId) {
+            $('#skillNameToDelete').text(skillName);
+            $('#deleteSkillForm input[name="employeeId"]').val(employeeId);
+            $('#deleteSkillForm input[name="skillId"]').val(skillId);
+            $('#deleteSkillModal').modal('show');
+        }
+    </script>
+}
+
+
+<style>
+    body {
+        margin: 0;
+        padding: 0;
+        min-height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-family: consolas;
+    }
+
+
+
+    .container {
+        width: 1000px;
+        position: relative;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .container .card {
+        position: relative;
+        cursor: pointer;
+    }
+
+    .fa-star {
+        color: gold;
+    }
+
+    .checked {
+        color: blue;
+    }
+
+    .container .card .face {
+        width: 250px;
+        height: 150px;
+        transition: 0.5s;
+    }
+
+    .container .card .face.face1 {
+        position: relative;
+        background: #333;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        z-index: 1;
+        transform: translateY(51px);
+    }
+
+    .container .card:hover .face.face1 {
+        background: #00FFAD;
+        transform: translateY(0);
+    }
+
+    .container .card .face.face1 .content {
+        opacity: 0.2;
+        transition: 0.5s;
+    }
+
+    .container .card:hover .face.face1 .content {
+        opacity: 1;
+    }
+
+    .container .card .face.face1 .content img {
+        max-width: 150px;
+    }
+
+    .container .card .face.face1 .content h3 {
+        margin: 10px 0 0;
+        padding: 0;
+        color: #fff;
+        text-align: center;
+        font-size: 1.5em;
+        transition: 0.5s;
+    }
+
+    .container .card:hover .face.face1 .content h3 {
+        color: #111;
+    }
+
+
+    .container .card .face.face2 {
+        position: relative;
+        background: #fff;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 20px;
+        box-sizing: border-box;
+        box-shadow: 0 20px 50px rgba(0, 0, 0, 0.8);
+        transform: translateY(-100px);
+    }
+
+    .container .card:hover .face.face2 {
+        transform: translateY(0);
+    }
+
+    .container .card .face.face2 .content p {
+        margin: 0;
+        padding: 0;
+    }
+
+    .container .card .face.face2 .content a {
+        margin: 15px 0 0;
+        display: inline-block;
+        text-decoration: none;
+        font-weight: 900;
+        color: #333;
+        padding: 5px;
+        border: 1px solid #333;
+        transition: 0.5s;
+    }
+
+    .container .card .face.face2 .content a:hover {
+        background: #00FFAD;
+        color: #111;
+        border: 1px solid #00FFAD;
+    }
+
+    .container .card .face.face2 .content {
+        text-align: center;
+    }
+</style>

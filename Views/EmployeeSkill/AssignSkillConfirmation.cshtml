@@ -1,0 +1,22 @@
+@model EmployeeSkillManagement.Models.EmployeeSkill
+
+<div class="container mt-5">
+    <h1>Assignment Confirmation</h1>
+    <p>Skill assigned successfully!</p>
+
+    <dl class="row">
+        <dt class="col-sm-2">Employee ID</dt>
+        <dd class="col-sm-10">@Model.EmployeeId</dd>
+
+        <dt class="col-sm-2">Skill ID</dt>
+        <dd class="col-sm-10">@Model.SkillId</dd>
+
+        <dt class="col-sm-2">Rating</dt>
+        <dd class="col-sm-10">@Model.Rating</dd>
+
+        <dt class="col-sm-2">Years of Experience</dt>
+        <dd class="col-sm-10">@Model.YearsOfExperience</dd>
+    </dl>
+
+    <a asp-action="Index" class="btn btn-primary">Back to Employees</a>
+</div>

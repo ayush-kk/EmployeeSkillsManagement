@@ -1,0 +1,96 @@
+@model EmployeeSkillManagement.Models.Employee
+
+<div class="container mt-5 main-content">
+    <h1 class="display-6">Create Employee</h1>
+
+    <form id="employee-form" asp-action="Create" method="post" class="mt-4" onsubmit="return validateDateOfJoining()">
+        <div class="text-danger"></div>
+
+        <div class="row form-group">
+            <div class="col">
+                <label asp-for="FirstName">First Name:</label>
+                <input asp-for="FirstName" class="form-control" required />
+                <span asp-validation-for="FirstName" class="text-danger"></span>
+            </div>
+            <div class="col">
+                <label asp-for="LastName">Last Name:</label>
+                <input asp-for="LastName" class="form-control" required />
+                <span asp-validation-for="LastName" class="text-danger"></span>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="DOJ">Date of Joining:</label>
+            <input asp-for="DOJ" type="date" class="form-control" id="DOJ" required />
+            <span id="DOJ-error" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Designation">Designation:</label>
+            <select asp-for="Designation" class="form-control" required>
+                <option value="">Select Designation</option>
+                <option value="Manager">Manager</option>
+                <option value="Developer">Developer</option>
+                <option value="Analyst">Analyst</option>
+                <option value="Senior Developer">Senior Developer</option>
+                <option value="Senior Manager">Senior Manager</option>
+            </select>
+            <span asp-validation-for="Designation" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="Email">Email:</label>
+            <input asp-for="Email" class="form-control" required />
+            <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+
+
+        <div class="form-group">
+            <button type="submit" class="btn btn-success mt-4">Create</button>
+            <button type="button" class="btn btn-secondary mt-4" onclick="clearForm()">Clear</button>
+        </div>
+    </form>
+</div>
+
+
+<script>
+    function validateDateOfJoining() {
+        var dojInput = document.getElementById('DOJ');
+        var selectedDate = new Date(dojInput.value);
+
+        // Get the current date
+        var currentDate = new Date();
+
+        // Compare the selected date with the current date
+        if (selectedDate > currentDate) {
+            displayError('DOJ', 'Date of Joining cannot be a future date.');
+            return false; // Prevent form submission
+        }
+
+        // Add similar checks for other fields
+
+        return true; // Allow form submission
+    }
+
+    function displayError(fieldId, errorMessage) {
+        // Display error message next to the input field
+        var errorSpan = document.getElementById(fieldId + '-error');
+        if (errorSpan) {
+            errorSpan.innerText = errorMessage;
+            errorSpan.classList.add('text-danger'); // Add red text style
+        }
+    }
+
+    function clearForm() {
+        // Reset all form fields and error messages
+        var form = document.getElementById('employee-form');
+        if (form) {
+            form.reset();
+            var errorSpans = form.querySelectorAll('.text-danger');
+            errorSpans.forEach(function (span) {
+                span.innerText = '';
+                span.classList.remove('text-danger');
+            });
+        }
+    }
+</script>

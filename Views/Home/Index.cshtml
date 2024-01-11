@@ -1,0 +1,103 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container mt-5">
+    <h1 class="display-6">Welcome to Employee Skill Management</h1>
+
+    <div>
+
+    </div>
+
+    <form id="searchForm" asp-action="Search" method="get" class="mt-4">
+        <div class="input-group">
+            <input type="text" class="form-control" id="searchTerm" name="searchTerm" placeholder="Search...">
+            <div class="input-group-append">
+                <button type="submit" class="btn btn-primary">Search</button>
+            </div>
+        </div>
+
+        <div class="form-check mt-2">
+            <input class="form-check-input" type="radio" name="searchCriteria" id="byName" value="Name" checked>
+            <label class="form-check-label" for="byName">
+                By Name
+            </label>
+        </div>
+        <div class="form-check">
+            <input class="form-check-input" type="radio" name="searchCriteria" id="bySkill" value="Skill">
+            <label class="form-check-label" for="bySkill">
+                By Skill
+            </label>
+        </div>
+        <div class="form-check">
+            <input class="form-check-input" type="radio" name="searchCriteria" id="byDesignation" value="Designation">
+            <label class="form-check-label" for="byDesignation">
+                By Designation
+            </label>
+        </div>
+    </form>
+
+    <div id="searchResultsContainer" class="mt-4">
+        @* @Html.Partial("_SearchResults") *@
+    </div>
+    <button id="downloadResultsBtn" class="btn btn-success mt-2">Download Search Results</button>
+</div>
+
+</div>
+
+@section scripts {
+    <script>
+        $(document).ready(function () {
+            // Store the last selected search criteria
+            var lastSearchCriteria = $("input[name='searchCriteria']:checked").val();
+
+            $('#searchForm').submit(function (event) {
+                event.preventDefault();
+                search();
+            });
+
+            $('#searchTerm').on('input', function () {
+                search();
+            });
+
+            // Clear search results and term when a different radio button is clicked
+            $('input[name="searchCriteria"]').change(function () {
+                var currentSearchCriteria = $("input[name='searchCriteria']:checked").val();
+                if (currentSearchCriteria !== lastSearchCriteria) {
+                    $('#searchTerm').val(''); // Clear the search term
+                    $('#searchResultsContainer').html(''); // Clear the search results container
+                    lastSearchCriteria = currentSearchCriteria; // Update last selected search criteria
+                }
+            });
+
+            $('#downloadResultsBtn').click(function () {
+                window.location.href = '/Home/ExportToExcel?' + $('#searchForm').serialize();
+            });
+
+            function search() {
+                var searchTerm = $('#searchTerm').val();
+
+                // Check if searchTerm is empty
+                if (!searchTerm.trim()) {
+                    // Clear search results container if searchTerm is empty
+                    $('#searchResultsContainer').html('');
+                    return;
+                }
+
+                var searchCriteria = $("input[name='searchCriteria']:checked").val();
+                $.ajax({
+                    url: '/Home/Search',
+                    type: 'POST',
+                    data: { searchTerm: searchTerm, searchCriteria: searchCriteria },
+                    success: function (result) {
+                        console.log(result);
+                        $('#searchResultsContainer').html(result);
+                    },
+                    error: function (error) {
+                        console.log(error);
+                    }
+                });
+            }
+        });
+    </script>
+}

@@ -1,0 +1,64 @@
+@model List<EmployeeSkillManagement.Models.Skill>
+
+<div class="container mt-5" id="data_table">
+    <h1 class="display-6">Manage Skills</h1>
+    <table class="table table-striped table-bordered display nowrap" id="dataTableData" style="width:100%">
+        <thead class="thead-dark">
+            <tr>
+                <th>Skill No</th>
+                <th>Skill Name</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var skill in Model)
+            {
+                <tr>
+                    <td>@(Model.IndexOf(skill) + 1)</td>
+                    <td>@skill.SkillName</td>
+                    <td>
+                        <div class="btn-group" role="group">
+                            <a type="button" class="btn btn-warning mr-2" asp-controller="Skill" asp-route-id="@skill.Id"
+                                asp-action="Edit">
+                                <i class="fas fa-pencil-alt mr-2"></i>Edit
+                            </a>
+                            <a type="button" class="btn btn-danger" data-bs-toggle="modal"
+                                data-bs-target="#deleteModal-@skill.Id">
+                                <i class="fas fa-trash-alt mr-2"></i>Delete
+                            </a>
+                        </div>
+                    </td>
+                </tr>
+
+                <!-- Modal for Delete Confirmation -->
+                <div class="modal fade" id="deleteModal-@skill.Id" tabindex="-1" aria-labelledby="deleteModalLabel"
+                    aria-hidden="true">
+                    <div class="modal-dialog">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="deleteModalLabel">Delete Confirmation</h5>
+                                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                            </div>
+                            <div class="modal-body">
+                                <p>Are you sure you want to delete this skill?</p>
+                                <p>Skill Name:</p>
+                                <dl class="row">
+                                    <dt class="col-sm-3">Skill Name:</dt>
+                                    <dd class="col-sm-9">@skill.SkillName</dd>
+                                </dl>
+                            </div>
+                            <div class="modal-footer">
+                                <!-- Submit the form when "Delete" button is clicked -->
+                                <form asp-action="Delete" asp-controller="Skill" asp-route-id="@skill.Id" method="post">
+                                    <input type="submit" value="Delete" class="btn btn-danger" />
+                                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </tbody>
+    </table>
+    <a type="button" class="btn btn-success mt-4" asp-area="" asp-controller="Skill" asp-action="Create">Add Skills</a>
+</div>

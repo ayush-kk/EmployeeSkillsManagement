@@ -1,0 +1,116 @@
+body.login-page {
+  background: url("bg.jpg") no-repeat center/cover fixed;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+  overflow: hidden;
+}
+
+section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+.box {
+  position: relative;
+  padding: 30px; /* Adjust padding for top, bottom, left, and right */
+  width: 350px; /* Adjust the width as needed */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: #1b5470;
+  border-radius: 8px; /* Adjust border-radius for rounded corners */
+  box-shadow: 0 5px 35px rgba(0, 0, 0, 0.2);
+}
+
+.form {
+  width: 100%;
+  text-align: center;
+}
+
+.form h2 {
+  color: #ffffff; /* White text color */
+  font-weight: 600;
+  letter-spacing: 2px;
+  margin-bottom: 20px;
+}
+
+.inputBx {
+  position: relative;
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.inputBx input {
+  width: 100%;
+  outline: none;
+  border: 1px solid #ffffff; /* White border color */
+  background: transparent;
+  padding: 10px; /* Adjust padding for top and bottom */
+  border-radius: 6px;
+  color: #ffffff; /* White text color */
+  font-size: 16px;
+  font-weight: 300;
+}
+
+.inputBx input::placeholder {
+  color: #ffffff; /* White placeholder color */
+}
+
+.inputBx img {
+  position: absolute;
+  top: 50%;
+  left: 10px;
+  transform: translateY(-50%);
+}
+
+.inputBx input[type="submit"] {
+  background: #272935;
+  color: #ffffff;
+
+  max-width: 260px;
+  padding: 12px; /* Adjust padding for top and bottom */
+  border: none;
+  border-radius: 6px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  cursor: pointer;
+  font-size: 18px;
+  transition: background 0.3s ease;
+}
+
+.inputBx input[type="submit"]:disabled {
+  background: #afafaf;
+  color: #191717;
+  cursor: not-allowed;
+}
+
+.inputBx input[type="submit"]:hover:not([disabled]) {
+  background: #006fab;
+  color: #191717; /* White text color */
+}
+
+@media screen and (max-width: 400px) {
+  .box {
+    padding: 20px;
+    width: 310px;
+    height: 420px;
+  }
+}
+
+/* .user {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  display: block;
+  position: relative;
+  top: -70px;
+  margin: auto;
+  box-shadow: 0 5px 35px rgba(0, 0, 0, 0.2);
+  border: 5px solid rgba(255, 255, 255, 0.1);
+} */

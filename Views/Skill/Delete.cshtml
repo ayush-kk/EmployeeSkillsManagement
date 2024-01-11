@@ -1,0 +1,28 @@
+@model EmployeeSkillManagement.Models.Skill
+
+
+
+<div class="container mt-5" style="max-width: 600px; margin: auto;">
+    <h2 style="color: #333;">Delete</h2>
+
+    <h3 style="color: #d9534f;">Are you sure you want to delete this skill?</h3>
+    <div>
+        <hr style="border-color: #d9534f;" />
+        <dl class="row">
+            <dt class="col-sm-3" style="font-weight: bold;">Skill Name:</dt>
+            <dd class="col-sm-9">
+                @Html.DisplayFor(model => model.SkillName)
+            </dd>
+        </dl>
+
+        @using (Html.BeginForm("Delete", "Skill", new { id = Model.Id }, FormMethod.Post))
+        {
+            @Html.AntiForgeryToken()
+
+            <div class="form-actions no-color">
+                <input type="submit" value="Delete" class="btn btn-danger" />
+                <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+            </div>
+        }
+    </div>
+</div>

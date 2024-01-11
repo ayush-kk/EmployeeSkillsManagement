@@ -1,0 +1,197 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] Employee Skills Management</title>
+    <link rel="icon" type="image/png" href="~/images/favicon.png?v=@DateTime.Now.Ticks">
+    @* <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script> *@
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        asp-append-version="true">
+    <link href="~/DataTables/datatables.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="~/css/darkmode.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+        asp-append-version="true">
+</head>
+
+<body>
+    <div class="wrapper">
+        @if (User.Identity.IsAuthenticated)
+        {
+            <!-- Sidebar -->
+            <aside id="sidebar">
+                <div class="h-100">
+                    <div class="sidebar-logo">
+                        <h2 style="color: #fff; display: flex;">Employee Skills Management</h2>
+                    </div>
+                    <div class="navigation">
+                        <ul class="sidebar-nav" id="sidebar-decoration">
+                            <li
+                                class="sidebar-item @(ViewContext.RouteData.Values["Controller"].ToString() == "Home" && ViewContext.RouteData.Values["Action"].ToString() == "Index" ? "active" : "")">
+                                <a asp-action="Index" asp-controller="Home" class="sidebar-link">
+                                    <i class="fas fa-home"></i>
+                                    Home
+                                </a>
+                            </li>
+                            <li
+                                class="sidebar-item @(ViewContext.RouteData.Values["Controller"].ToString() == "Employee" && ViewContext.RouteData.Values["Action"].ToString() == "Index" ? "active" : "")">
+                                <a asp-action="Index" asp-controller="Employee" class="sidebar-link collapsed">
+                                    <i class="fas fa-users"></i>
+                                    Manage Employees
+                                </a>
+                            </li>
+                            <li
+                                class="sidebar-item @(ViewContext.RouteData.Values["Controller"].ToString() == "Skill" && ViewContext.RouteData.Values["Action"].ToString() == "Index" ? "active" : "")">
+                                <a asp-action="Index" asp-controller="Skill" class="sidebar-link collapsed">
+                                    <i class="fas fa-graduation-cap"></i>
+                                    Manage Skills
+                                </a>
+                            </li>
+                            <li class="sidebar-item">
+                                <a class="sidebar-link collapsed" data-bs-toggle="modal" data-bs-target="#logoutModal"
+                                    style="color: #fff;">
+                                    <i class="fas fa-sign-out-alt"></i>
+                                    @Html.AntiForgeryToken()
+                                    Logout
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </aside>
+        }
+        <!-- Main Component -->
+        <div class="main">
+
+            @if (User.Identity.IsAuthenticated)
+            {
+                <nav class="navbar navbar-expand px-3 border-bottom" style="background-color: #272936;">
+                    <!-- Button for sidebar toggle -->
+                    <button class="btn" type="button" style="background-color: #fff;">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <span>
+                        <img id="company-logo" alt="No Image" class="company-logo-image"
+                            src="data:image/png;base64,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"
+                            width="223" height="46" style=" padding-top: 5px;">
+                    </span>
+
+                </nav>
+            }
+            <main class="content px-3 py-2">
+                <div class="container-fluid mb-3">
+                    <div id="notification-toast" class="toast align-items-center position-fixed top-0 end-0 m-4"
+                        role="alert" aria-live="assertive" aria-atomic="true" data-bs-autohide="false"
+                        style="z-index: 1050;">
+
+                        <div class="d-flex">
+                            <div class="toast-body">
+                                <span id="notification-message"></span>
+                            </div>
+                            <button type="button" class="btn-close me-2 m-auto" data-bs-dismiss="toast"
+                                aria-label="Close"></button>
+                        </div>
+
+                    </div>
+
+                    @RenderBody()
+                </div>
+            </main>
+        </div>
+    </div>
+
+    <div class="modal fade" id="logoutModal" tabindex="-1" aria-labelledby="logoutModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="logoutModalLabel">Logout Confirmation</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <p>Are you sure you want to log out?</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+                    <a class="btn btn-primary" onclick="logout()">Logout</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/DataTables/datatables.min.js"></script>
+    <script src="~/js/datatable.js"></script>
+    <script src="~/js/darkmode.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script src="https://kit.fontawesome.com/ae360af17e.js" crossorigin="anonymous" asp-append-version="true"></script>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function () {
+            var toastrMessage = '@(TempData["ToastrMessage"] as string)';
+            var toastrType = '@(TempData["ToastrType"] as string)'; // Add a TempData entry for ToastrType
+            if (toastrMessage) {
+                // Display Bootstrap Toast
+                var toast = new bootstrap.Toast(document.getElementById('notification-toast'));
+                // Set background color based on toastrType
+                var bgColor = toastrType === "success" ? "#28a745" : toastrType === "error" ? "#dc3545" : "";
+                // Apply background color to the toast
+                document.getElementById('notification-toast').style.backgroundColor = bgColor;
+                // Set the message and show the toast
+                document.getElementById('notification-message').innerText = toastrMessage;
+                toast.show();
+            }
+        });
+    </script>
+
+
+
+    <script>
+        function logout() {
+            $.post('@Url.Action("Logout", "Admin")', {
+                __RequestVerificationToken: $('input[name="__RequestVerificationToken"]').val()
+            })
+                .done(function () {
+                    window.location.href = '@Url.Action("Login", "Admin")';
+                })
+                .fail(function () {
+                    alert('Logout failed');
+                });
+        }
+    </script>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const navButtons = document.querySelectorAll('.nav-button');
+            const navContentHighlight = document.getElementById('nav-content-highlight');
+            navButtons.forEach(function (button, index) {
+                button.addEventListener('click', function () {
+                    // Remove 'active' class from all buttons
+                    navButtons.forEach(function (btn) {
+                        btn.classList.remove('active');
+                    });
+                    // Add 'active' class to the clicked button
+                    button.classList.add('active');
+                    // Adjust top position of the highlight based on the index
+                    const topPosition = 16 + index * 54;
+                    navContentHighlight.style.top = `${topPosition}px`;
+                });
+            });
+        });
+
+    </Script>
+
+    <script>
+        const toggler = document.querySelector(".btn");
+        toggler.addEventListener("click", function () {
+            document.querySelector("#sidebar").classList.toggle("collapsed");
+        });
+    </script>
+    @await RenderSectionAsync("Scripts", required: false)
+
+</body>
+
+</html>

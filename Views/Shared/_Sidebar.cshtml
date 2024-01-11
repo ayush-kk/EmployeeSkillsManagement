@@ -1,0 +1,74 @@
+<link rel="stylesheet" href="~/css/sidebar.css" asp-append-version="true" />
+
+
+
+
+<div id="sidebar">
+        <div id="nav-bar">
+                <input id="nav-toggle" type="checkbox" />
+                <div id="nav-header"><a id="nav-title" href="http://localhost:5109/" target="_blank"><i
+                                        class="fab fa-codepen" style="margin-right: 25px;"></i>
+                                E S M</a>
+                        <label for="nav-toggle"><span id="nav-toggle-burger"></span></label>
+                        <hr />
+                </div>
+                <div id="nav-content">
+                        <div class="nav-button" onclick="window.location.href='@Url.Action("Index", "Home")'"><i
+                                        class="fas fa-home"></i><span>Home</span></div>
+                        <div class="nav-button" onclick="window.location.href='@Url.Action("Index", "Employee")'"><i
+                                        class="fas fa-users"></i><span>Manage Employees</span></div>
+                        <div class="nav-button" onclick="window.location.href='@Url.Action("Index", "Skill")'"><i
+                                        class="fas fa-graduation-cap"></i><span>Manage Skills</span></div>
+
+                        @* <div class="nav-button" onclick="window.location.href='@Url.Action("Index", "Admin")'"><i
+                        class="fas fa-chart-line"></i><span>Admin</span></div>
+                        <div id="nav-content-highlight"></div> *@
+                        <div class="nav-button" onclick="logout()">@Html.AntiForgeryToken()<i
+                                        class="fas fa-sign-out-alt"></i><span>Logout</span>
+                        </div>
+                        <div id="nav-content-highlight"></div>
+                </div>
+        </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script>
+        function logout() {
+                $.post('@Url.Action("Logout", "Admin")', {
+                        __RequestVerificationToken: $('input[name="__RequestVerificationToken"]').val()
+                })
+                        .done(function () {
+                                window.location.href = '@Url.Action("Login", "Admin")';
+                        })
+                        .fail(function () {
+                                alert('Logout failed');
+                        });
+        }
+</script>

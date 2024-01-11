@@ -1,0 +1,20 @@
+@model EmployeeSkillManagement.Models.Skill
+
+<div class="container mt-5">
+    <h1 class="display-6">Create Skill</h1>
+
+    <div class="row">
+        <div class="col-6">
+            <form asp-action="Create" method="post" class="mt-4 ">
+                <div class="form-group">
+                    <label asp-for="SkillName">Skill Name:</label>
+                    <input asp-for="SkillName" class="form-control" required />
+                    <span asp-validation-for="SkillName" class="text-danger"></span>
+                </div>
+
+                <button type="submit" class="btn btn-success">Create</button>
+            </form>
+
+        </div>
+    </div>
+</div>

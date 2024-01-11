@@ -1,0 +1,41 @@
+@model List<EmployeeSkillManagement.Models.Employee>
+
+@if (Model != null && Model.Count > 0)
+{
+
+    <table class="table mt-4 table table-bordered">
+        <thead class="thead-dark">
+            <tr>
+                <th>Employee ID</th>
+                <th>First Name</th>
+                <th>Last Name</th>
+                <th>Designation</th>
+                <th>Email</th>
+                <th>Skills</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var employee in Model)
+            {
+                <tr>
+                    <td>@employee.Id</td>
+                    <td>@employee.FirstName</td>
+                    <td>@employee.LastName</td>
+                    <td>@employee.Designation</td>
+                    <td>@employee.Email</td>
+                    <td>@foreach(var employeeSkill in employee.EmployeeSkills){
+                        <text>@employeeSkill.Skill.SkillName</text>
+                        @if(employeeSkill != employee.EmployeeSkills.Last()){
+                            <text>,</text>
+                        }
+                        }</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+}
+else
+{
+    <p>No results</p>
+}

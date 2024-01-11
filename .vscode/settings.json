@@ -1,0 +1,23 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#008e65",
+    "activityBar.background": "#008e65",
+    "activityBar.foreground": "#e7e7e7",
+    "activityBar.inactiveForeground": "#e7e7e799",
+    "activityBarBadge.background": "#e39fff",
+    "activityBarBadge.foreground": "#15202b",
+    "commandCenter.border": "#e7e7e799",
+    "sash.hoverBorder": "#008e65",
+    "statusBar.background": "#005b41",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#008e65",
+    "statusBarItem.remoteBackground": "#005b41",
+    "statusBarItem.remoteForeground": "#e7e7e7",
+    "titleBar.activeBackground": "#005b41",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveBackground": "#005b4199",
+    "titleBar.inactiveForeground": "#e7e7e799"
+  },
+  "dotnet.defaultSolution": "EmployeeSkillManagement.sln",
+  "peacock.color": "#005B41"
+}

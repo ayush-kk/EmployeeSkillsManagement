@@ -1,0 +1,270 @@
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\obj\Debug\net7.0\EmployeeSkillManagement.csproj.AssemblyReference.cache
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\obj\Debug\net7.0\EmployeeSkillManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\obj\Debug\net7.0\EmployeeSkillManagement.AssemblyInfoInputs.cache
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\obj\Debug\net7.0\EmployeeSkillManagement.AssemblyInfo.cs
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\obj\Debug\net7.0\EmployeeSkillManagement.csproj.CoreCompileInputs.cache
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\obj\Debug\net7.0\EmployeeSkillManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\obj\Debug\net7.0\EmployeeSkillManagement.RazorAssemblyInfo.cache
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\obj\Debug\net7.0\EmployeeSkillManagement.RazorAssemblyInfo.cs
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\appsettings.json
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\EmployeeSkillManagement.staticwebassets.runtime.json
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\EmployeeSkillManagement.exe
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\EmployeeSkillManagement.deps.json
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\EmployeeSkillManagement.runtimeconfig.json
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\EmployeeSkillManagement.dll
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\EmployeeSkillManagement.pdb
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\DinkToPdf.dll
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\EPPlus.dll
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\Humanizer.dll
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\obj\Debug\net7.0\staticwebassets\msbuild.EmployeeSkillManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\obj\Debug\net7.0\staticwebassets\msbuild.build.EmployeeSkillManagement.props
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeSkillManagement.props
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EmployeeSkillManagement.props
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\obj\Debug\net7.0\scopedcss\bundle\EmployeeSkillManagement.styles.css
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\obj\Debug\net7.0\scopedcss\projectbundle\EmployeeSkillManagement.bundle.scp.css
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\obj\Debug\net7.0\EmployeeSkillManagement.csproj.CopyComplete
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\obj\Debug\net7.0\EmployeeSkillManagement.dll
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\obj\Debug\net7.0\refint\EmployeeSkillManagement.dll
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\obj\Debug\net7.0\EmployeeSkillManagement.pdb
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\obj\Debug\net7.0\EmployeeSkillManagement.genruntimeconfig.cache
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\obj\Debug\net7.0\ref\EmployeeSkillManagement.dll
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\package-lock.json
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\package.json
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\obj\Debug\net7.0\EmployeeSkillManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\EPPlus.Interfaces.dll
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\EPPlus.System.Drawing.dll
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\AKUM1589\Desktop\Dotnet Project\EmployeeSkillManagement\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\appsettings.json
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\package-lock.json
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\package.json
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\EmployeeSkillManagement.staticwebassets.runtime.json
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\EmployeeSkillManagement.exe
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\EmployeeSkillManagement.deps.json
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\EmployeeSkillManagement.runtimeconfig.json
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\EmployeeSkillManagement.dll
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\EmployeeSkillManagement.pdb
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\DinkToPdf.dll
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\EPPlus.dll
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\EPPlus.Interfaces.dll
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\EPPlus.System.Drawing.dll
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\Humanizer.dll
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\obj\Debug\net7.0\EmployeeSkillManagement.csproj.AssemblyReference.cache
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\obj\Debug\net7.0\EmployeeSkillManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\obj\Debug\net7.0\EmployeeSkillManagement.AssemblyInfoInputs.cache
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\obj\Debug\net7.0\EmployeeSkillManagement.AssemblyInfo.cs
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\obj\Debug\net7.0\EmployeeSkillManagement.csproj.CoreCompileInputs.cache
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\obj\Debug\net7.0\EmployeeSkillManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\obj\Debug\net7.0\EmployeeSkillManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\obj\Debug\net7.0\EmployeeSkillManagement.RazorAssemblyInfo.cache
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\obj\Debug\net7.0\EmployeeSkillManagement.RazorAssemblyInfo.cs
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\obj\Debug\net7.0\staticwebassets\msbuild.EmployeeSkillManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\obj\Debug\net7.0\staticwebassets\msbuild.build.EmployeeSkillManagement.props
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeSkillManagement.props
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EmployeeSkillManagement.props
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\obj\Debug\net7.0\scopedcss\bundle\EmployeeSkillManagement.styles.css
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\obj\Debug\net7.0\scopedcss\projectbundle\EmployeeSkillManagement.bundle.scp.css
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\obj\Debug\net7.0\EmployeeSkillManagement.csproj.CopyComplete
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\obj\Debug\net7.0\EmployeeSkillManagement.dll
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\obj\Debug\net7.0\refint\EmployeeSkillManagement.dll
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\obj\Debug\net7.0\EmployeeSkillManagement.pdb
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\obj\Debug\net7.0\EmployeeSkillManagement.genruntimeconfig.cache
+C:\Users\AKUM1589\Desktop\React\EmployeeSkillManagement\obj\Debug\net7.0\ref\EmployeeSkillManagement.dll
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\appsettings.Development.json
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\appsettings.json
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\package-lock.json
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\package.json
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\EmployeeSkillManagement.staticwebassets.runtime.json
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\EmployeeSkillManagement.exe
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\EmployeeSkillManagement.deps.json
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\EmployeeSkillManagement.runtimeconfig.json
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\EmployeeSkillManagement.dll
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\EmployeeSkillManagement.pdb
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\Humanizer.dll
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\System.CodeDom.dll
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\obj\Debug\net7.0\EmployeeSkillManagement.csproj.AssemblyReference.cache
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\obj\Debug\net7.0\EmployeeSkillManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\obj\Debug\net7.0\EmployeeSkillManagement.AssemblyInfoInputs.cache
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\obj\Debug\net7.0\EmployeeSkillManagement.AssemblyInfo.cs
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\obj\Debug\net7.0\EmployeeSkillManagement.csproj.CoreCompileInputs.cache
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\obj\Debug\net7.0\EmployeeSkillManagement.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\obj\Debug\net7.0\EmployeeSkillManagement.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\obj\Debug\net7.0\EmployeeSkillManagement.RazorAssemblyInfo.cache
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\obj\Debug\net7.0\EmployeeSkillManagement.RazorAssemblyInfo.cs
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\obj\Debug\net7.0\staticwebassets\msbuild.EmployeeSkillManagement.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\obj\Debug\net7.0\staticwebassets\msbuild.build.EmployeeSkillManagement.props
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeSkillManagement.props
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EmployeeSkillManagement.props
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\obj\Debug\net7.0\staticwebassets.build.json
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\obj\Debug\net7.0\staticwebassets.development.json
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\obj\Debug\net7.0\scopedcss\bundle\EmployeeSkillManagement.styles.css
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\obj\Debug\net7.0\scopedcss\projectbundle\EmployeeSkillManagement.bundle.scp.css
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\obj\Debug\net7.0\EmployeeSkillManagement.csproj.CopyComplete
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\obj\Debug\net7.0\EmployeeSkillManagement.dll
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\obj\Debug\net7.0\refint\EmployeeSkillManagement.dll
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\obj\Debug\net7.0\EmployeeSkillManagement.pdb
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\obj\Debug\net7.0\EmployeeSkillManagement.genruntimeconfig.cache
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\obj\Debug\net7.0\ref\EmployeeSkillManagement.dll
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\EPPlus.dll
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\EPPlus.Interfaces.dll
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\EPPlus.System.Drawing.dll
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Projects\Dotnet\MyProjects\EmployeeSkillsManagement\bin\Debug\net7.0\libman.json
