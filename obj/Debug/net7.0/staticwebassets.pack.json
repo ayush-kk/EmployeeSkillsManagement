@@ -1,1275 +1,1275 @@
 {
   "Files": [
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\EmployeeSkillManagement.bundle.scp.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\EmployeeSkillManagement.bundle.scp.css",
       "PackagePath": "staticwebassets\\EmployeeSkillManagement.bundle.scp.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Bootstrap-5-5.3.0\\css\\bootstrap.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Bootstrap-5-5.3.0\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\DataTables\\Bootstrap-5-5.3.0\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Bootstrap-5-5.3.0\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Bootstrap-5-5.3.0\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\DataTables\\Bootstrap-5-5.3.0\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Bootstrap-5-5.3.0\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Bootstrap-5-5.3.0\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\DataTables\\Bootstrap-5-5.3.0\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Bootstrap-5-5.3.0\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Bootstrap-5-5.3.0\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\DataTables\\Bootstrap-5-5.3.0\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Bootstrap-5-5.3.0\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Bootstrap-5-5.3.0\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\DataTables\\Bootstrap-5-5.3.0\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Bootstrap-5-5.3.0\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Bootstrap-5-5.3.0\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\DataTables\\Bootstrap-5-5.3.0\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Bootstrap-5-5.3.0\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Bootstrap-5-5.3.0\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\DataTables\\Bootstrap-5-5.3.0\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Bootstrap-5-5.3.0\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Bootstrap-5-5.3.0\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\DataTables\\Bootstrap-5-5.3.0\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\buttons.bootstrap.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\buttons.bootstrap.css",
       "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\css\\buttons.bootstrap.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\buttons.bootstrap.min.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\buttons.bootstrap.min.css",
       "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\css\\buttons.bootstrap.min.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\buttons.bootstrap4.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\buttons.bootstrap4.css",
       "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\css\\buttons.bootstrap4.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\buttons.bootstrap4.min.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\buttons.bootstrap4.min.css",
       "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\css\\buttons.bootstrap4.min.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\buttons.bootstrap5.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\buttons.bootstrap5.css",
       "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\css\\buttons.bootstrap5.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\buttons.bootstrap5.min.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\buttons.bootstrap5.min.css",
       "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\css\\buttons.bootstrap5.min.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\buttons.bulma.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\buttons.bulma.css",
       "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\css\\buttons.bulma.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\buttons.bulma.min.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\buttons.bulma.min.css",
       "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\css\\buttons.bulma.min.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\buttons.dataTables.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\buttons.dataTables.css",
       "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\css\\buttons.dataTables.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\buttons.dataTables.min.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\buttons.dataTables.min.css",
       "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\css\\buttons.dataTables.min.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\buttons.foundation.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\buttons.foundation.css",
       "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\css\\buttons.foundation.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\buttons.foundation.min.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\buttons.foundation.min.css",
       "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\css\\buttons.foundation.min.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\buttons.jqueryui.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\buttons.jqueryui.css",
       "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\css\\buttons.jqueryui.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\buttons.jqueryui.min.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\buttons.jqueryui.min.css",
       "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\css\\buttons.jqueryui.min.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\buttons.semanticui.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\buttons.semanticui.css",
       "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\css\\buttons.semanticui.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\buttons.semanticui.min.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\buttons.semanticui.min.css",
       "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\css\\buttons.semanticui.min.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\common.scss",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\common.scss",
       "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\css\\common.scss"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\mixins.scss",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\css\\mixins.scss",
       "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\css\\mixins.scss"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.bootstrap.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.bootstrap.js",
       "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\js\\buttons.bootstrap.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.bootstrap.min.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.bootstrap.min.js",
       "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\js\\buttons.bootstrap.min.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.bootstrap4.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.bootstrap4.js",
       "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\js\\buttons.bootstrap4.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.bootstrap4.min.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.bootstrap4.min.js",
       "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\js\\buttons.bootstrap4.min.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.bootstrap5.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.bootstrap5.js",
       "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\js\\buttons.bootstrap5.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.bootstrap5.min.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.bootstrap5.min.js",
       "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\js\\buttons.bootstrap5.min.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.bulma.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.bulma.js",
       "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\js\\buttons.bulma.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.bulma.min.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.bulma.min.js",
       "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\js\\buttons.bulma.min.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.colVis.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.colVis.js",
       "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\js\\buttons.colVis.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.colVis.min.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.colVis.min.js",
       "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\js\\buttons.colVis.min.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.dataTables.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.dataTables.js",
       "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\js\\buttons.dataTables.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.dataTables.min.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.dataTables.min.js",
       "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\js\\buttons.dataTables.min.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.foundation.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.foundation.js",
       "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\js\\buttons.foundation.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.foundation.min.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.foundation.min.js",
       "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\js\\buttons.foundation.min.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.html5.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.html5.js",
       "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\js\\buttons.html5.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.html5.min.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.html5.min.js",
       "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\js\\buttons.html5.min.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.jqueryui.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.jqueryui.js",
       "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\js\\buttons.jqueryui.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.jqueryui.min.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.jqueryui.min.js",
       "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\js\\buttons.jqueryui.min.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.print.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.print.js",
       "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\js\\buttons.print.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.print.min.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.print.min.js",
       "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\js\\buttons.print.min.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.semanticui.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.semanticui.js",
       "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\js\\buttons.semanticui.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.semanticui.min.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\buttons.semanticui.min.js",
       "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\js\\buttons.semanticui.min.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\dataTables.buttons.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\dataTables.buttons.js",
       "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\js\\dataTables.buttons.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\dataTables.buttons.min.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Buttons-2.4.2\\js\\dataTables.buttons.min.js",
       "PackagePath": "staticwebassets\\DataTables\\Buttons-2.4.2\\js\\dataTables.buttons.min.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.bootstrap.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.bootstrap.css",
       "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\dataTables.bootstrap.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.bootstrap.min.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.bootstrap.min.css",
       "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\dataTables.bootstrap.min.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.bootstrap4.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.bootstrap4.css",
       "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\dataTables.bootstrap4.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.bootstrap4.min.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.bootstrap4.min.css",
       "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\dataTables.bootstrap4.min.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.bootstrap5.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.bootstrap5.css",
       "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\dataTables.bootstrap5.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.bootstrap5.min.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.bootstrap5.min.css",
       "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\dataTables.bootstrap5.min.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.bulma.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.bulma.css",
       "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\dataTables.bulma.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.bulma.min.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.bulma.min.css",
       "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\dataTables.bulma.min.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.dataTables.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.dataTables.css",
       "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\dataTables.dataTables.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.dataTables.min.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.dataTables.min.css",
       "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\dataTables.dataTables.min.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.foundation.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.foundation.css",
       "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\dataTables.foundation.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.foundation.min.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.foundation.min.css",
       "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\dataTables.foundation.min.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.jqueryui.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.jqueryui.css",
       "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\dataTables.jqueryui.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.jqueryui.min.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.jqueryui.min.css",
       "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\dataTables.jqueryui.min.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.semanticui.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.semanticui.css",
       "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\dataTables.semanticui.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.semanticui.min.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.semanticui.min.css",
       "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\dataTables.semanticui.min.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\jquery.dataTables.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\jquery.dataTables.css",
       "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\jquery.dataTables.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\jquery.dataTables.min.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\jquery.dataTables.min.css",
       "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\jquery.dataTables.min.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\images\\sort_asc.png",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\images\\sort_asc.png",
       "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\images\\sort_asc.png"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\images\\sort_asc_disabled.png",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\images\\sort_asc_disabled.png",
       "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\images\\sort_asc_disabled.png"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\images\\sort_both.png",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\images\\sort_both.png",
       "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\images\\sort_both.png"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\images\\sort_desc.png",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\images\\sort_desc.png",
       "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\images\\sort_desc.png"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\images\\sort_desc_disabled.png",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\images\\sort_desc_disabled.png",
       "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\images\\sort_desc_disabled.png"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.bootstrap.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.bootstrap.js",
       "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\dataTables.bootstrap.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.bootstrap.min.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.bootstrap.min.js",
       "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\dataTables.bootstrap.min.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.bootstrap4.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.bootstrap4.js",
       "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\dataTables.bootstrap4.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.bootstrap4.min.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.bootstrap4.min.js",
       "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\dataTables.bootstrap4.min.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.bootstrap5.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.bootstrap5.js",
       "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\dataTables.bootstrap5.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.bootstrap5.min.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.bootstrap5.min.js",
       "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\dataTables.bootstrap5.min.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.bulma.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.bulma.js",
       "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\dataTables.bulma.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.bulma.min.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.bulma.min.js",
       "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\dataTables.bulma.min.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.dataTables.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.dataTables.js",
       "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\dataTables.dataTables.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.dataTables.min.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.dataTables.min.js",
       "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\dataTables.dataTables.min.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.foundation.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.foundation.js",
       "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\dataTables.foundation.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.foundation.min.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.foundation.min.js",
       "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\dataTables.foundation.min.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.jqueryui.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.jqueryui.js",
       "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\dataTables.jqueryui.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.jqueryui.min.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.jqueryui.min.js",
       "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\dataTables.jqueryui.min.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.semanticui.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.semanticui.js",
       "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\dataTables.semanticui.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.semanticui.min.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.semanticui.min.js",
       "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\dataTables.semanticui.min.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\jquery.dataTables.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\jquery.dataTables.js",
       "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\jquery.dataTables.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\jquery.dataTables.min.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\jquery.dataTables.min.js",
       "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\jquery.dataTables.min.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\JSZip-3.10.1\\jszip.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\JSZip-3.10.1\\jszip.js",
       "PackagePath": "staticwebassets\\DataTables\\JSZip-3.10.1\\jszip.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\JSZip-3.10.1\\jszip.min.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\JSZip-3.10.1\\jszip.min.js",
       "PackagePath": "staticwebassets\\DataTables\\JSZip-3.10.1\\jszip.min.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\css\\responsive.bootstrap.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\css\\responsive.bootstrap.css",
       "PackagePath": "staticwebassets\\DataTables\\Responsive-2.5.0\\css\\responsive.bootstrap.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\css\\responsive.bootstrap.min.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\css\\responsive.bootstrap.min.css",
       "PackagePath": "staticwebassets\\DataTables\\Responsive-2.5.0\\css\\responsive.bootstrap.min.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\css\\responsive.bootstrap4.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\css\\responsive.bootstrap4.css",
       "PackagePath": "staticwebassets\\DataTables\\Responsive-2.5.0\\css\\responsive.bootstrap4.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\css\\responsive.bootstrap4.min.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\css\\responsive.bootstrap4.min.css",
       "PackagePath": "staticwebassets\\DataTables\\Responsive-2.5.0\\css\\responsive.bootstrap4.min.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\css\\responsive.bootstrap5.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\css\\responsive.bootstrap5.css",
       "PackagePath": "staticwebassets\\DataTables\\Responsive-2.5.0\\css\\responsive.bootstrap5.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\css\\responsive.bootstrap5.min.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\css\\responsive.bootstrap5.min.css",
       "PackagePath": "staticwebassets\\DataTables\\Responsive-2.5.0\\css\\responsive.bootstrap5.min.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\css\\responsive.bulma.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\css\\responsive.bulma.css",
       "PackagePath": "staticwebassets\\DataTables\\Responsive-2.5.0\\css\\responsive.bulma.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\css\\responsive.bulma.min.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\css\\responsive.bulma.min.css",
       "PackagePath": "staticwebassets\\DataTables\\Responsive-2.5.0\\css\\responsive.bulma.min.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\css\\responsive.dataTables.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\css\\responsive.dataTables.css",
       "PackagePath": "staticwebassets\\DataTables\\Responsive-2.5.0\\css\\responsive.dataTables.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\css\\responsive.dataTables.min.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\css\\responsive.dataTables.min.css",
       "PackagePath": "staticwebassets\\DataTables\\Responsive-2.5.0\\css\\responsive.dataTables.min.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\css\\responsive.foundation.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\css\\responsive.foundation.css",
       "PackagePath": "staticwebassets\\DataTables\\Responsive-2.5.0\\css\\responsive.foundation.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\css\\responsive.foundation.min.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\css\\responsive.foundation.min.css",
       "PackagePath": "staticwebassets\\DataTables\\Responsive-2.5.0\\css\\responsive.foundation.min.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\css\\responsive.jqueryui.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\css\\responsive.jqueryui.css",
       "PackagePath": "staticwebassets\\DataTables\\Responsive-2.5.0\\css\\responsive.jqueryui.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\css\\responsive.jqueryui.min.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\css\\responsive.jqueryui.min.css",
       "PackagePath": "staticwebassets\\DataTables\\Responsive-2.5.0\\css\\responsive.jqueryui.min.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\css\\responsive.semanticui.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\css\\responsive.semanticui.css",
       "PackagePath": "staticwebassets\\DataTables\\Responsive-2.5.0\\css\\responsive.semanticui.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\css\\responsive.semanticui.min.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\css\\responsive.semanticui.min.css",
       "PackagePath": "staticwebassets\\DataTables\\Responsive-2.5.0\\css\\responsive.semanticui.min.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\js\\dataTables.responsive.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\js\\dataTables.responsive.js",
       "PackagePath": "staticwebassets\\DataTables\\Responsive-2.5.0\\js\\dataTables.responsive.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\js\\dataTables.responsive.min.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\js\\dataTables.responsive.min.js",
       "PackagePath": "staticwebassets\\DataTables\\Responsive-2.5.0\\js\\dataTables.responsive.min.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\js\\responsive.bootstrap.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\js\\responsive.bootstrap.js",
       "PackagePath": "staticwebassets\\DataTables\\Responsive-2.5.0\\js\\responsive.bootstrap.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\js\\responsive.bootstrap.min.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\js\\responsive.bootstrap.min.js",
       "PackagePath": "staticwebassets\\DataTables\\Responsive-2.5.0\\js\\responsive.bootstrap.min.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\js\\responsive.bootstrap4.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\js\\responsive.bootstrap4.js",
       "PackagePath": "staticwebassets\\DataTables\\Responsive-2.5.0\\js\\responsive.bootstrap4.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\js\\responsive.bootstrap4.min.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\js\\responsive.bootstrap4.min.js",
       "PackagePath": "staticwebassets\\DataTables\\Responsive-2.5.0\\js\\responsive.bootstrap4.min.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\js\\responsive.bootstrap5.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\js\\responsive.bootstrap5.js",
       "PackagePath": "staticwebassets\\DataTables\\Responsive-2.5.0\\js\\responsive.bootstrap5.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\js\\responsive.bootstrap5.min.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\js\\responsive.bootstrap5.min.js",
       "PackagePath": "staticwebassets\\DataTables\\Responsive-2.5.0\\js\\responsive.bootstrap5.min.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\js\\responsive.bulma.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\js\\responsive.bulma.js",
       "PackagePath": "staticwebassets\\DataTables\\Responsive-2.5.0\\js\\responsive.bulma.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\js\\responsive.bulma.min.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\js\\responsive.bulma.min.js",
       "PackagePath": "staticwebassets\\DataTables\\Responsive-2.5.0\\js\\responsive.bulma.min.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\js\\responsive.dataTables.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\js\\responsive.dataTables.js",
       "PackagePath": "staticwebassets\\DataTables\\Responsive-2.5.0\\js\\responsive.dataTables.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\js\\responsive.dataTables.min.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\js\\responsive.dataTables.min.js",
       "PackagePath": "staticwebassets\\DataTables\\Responsive-2.5.0\\js\\responsive.dataTables.min.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\js\\responsive.foundation.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\js\\responsive.foundation.js",
       "PackagePath": "staticwebassets\\DataTables\\Responsive-2.5.0\\js\\responsive.foundation.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\js\\responsive.foundation.min.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\js\\responsive.foundation.min.js",
       "PackagePath": "staticwebassets\\DataTables\\Responsive-2.5.0\\js\\responsive.foundation.min.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\js\\responsive.jqueryui.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\js\\responsive.jqueryui.js",
       "PackagePath": "staticwebassets\\DataTables\\Responsive-2.5.0\\js\\responsive.jqueryui.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\js\\responsive.jqueryui.min.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\js\\responsive.jqueryui.min.js",
       "PackagePath": "staticwebassets\\DataTables\\Responsive-2.5.0\\js\\responsive.jqueryui.min.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\js\\responsive.semanticui.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\js\\responsive.semanticui.js",
       "PackagePath": "staticwebassets\\DataTables\\Responsive-2.5.0\\js\\responsive.semanticui.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\js\\responsive.semanticui.min.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\Responsive-2.5.0\\js\\responsive.semanticui.min.js",
       "PackagePath": "staticwebassets\\DataTables\\Responsive-2.5.0\\js\\responsive.semanticui.min.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\css\\rowReorder.bootstrap.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\css\\rowReorder.bootstrap.css",
       "PackagePath": "staticwebassets\\DataTables\\RowReorder-1.4.1\\css\\rowReorder.bootstrap.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\css\\rowReorder.bootstrap.min.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\css\\rowReorder.bootstrap.min.css",
       "PackagePath": "staticwebassets\\DataTables\\RowReorder-1.4.1\\css\\rowReorder.bootstrap.min.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\css\\rowReorder.bootstrap4.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\css\\rowReorder.bootstrap4.css",
       "PackagePath": "staticwebassets\\DataTables\\RowReorder-1.4.1\\css\\rowReorder.bootstrap4.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\css\\rowReorder.bootstrap4.min.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\css\\rowReorder.bootstrap4.min.css",
       "PackagePath": "staticwebassets\\DataTables\\RowReorder-1.4.1\\css\\rowReorder.bootstrap4.min.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\css\\rowReorder.bootstrap5.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\css\\rowReorder.bootstrap5.css",
       "PackagePath": "staticwebassets\\DataTables\\RowReorder-1.4.1\\css\\rowReorder.bootstrap5.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\css\\rowReorder.bootstrap5.min.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\css\\rowReorder.bootstrap5.min.css",
       "PackagePath": "staticwebassets\\DataTables\\RowReorder-1.4.1\\css\\rowReorder.bootstrap5.min.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\css\\rowReorder.bulma.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\css\\rowReorder.bulma.css",
       "PackagePath": "staticwebassets\\DataTables\\RowReorder-1.4.1\\css\\rowReorder.bulma.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\css\\rowReorder.bulma.min.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\css\\rowReorder.bulma.min.css",
       "PackagePath": "staticwebassets\\DataTables\\RowReorder-1.4.1\\css\\rowReorder.bulma.min.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\css\\rowReorder.dataTables.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\css\\rowReorder.dataTables.css",
       "PackagePath": "staticwebassets\\DataTables\\RowReorder-1.4.1\\css\\rowReorder.dataTables.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\css\\rowReorder.dataTables.min.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\css\\rowReorder.dataTables.min.css",
       "PackagePath": "staticwebassets\\DataTables\\RowReorder-1.4.1\\css\\rowReorder.dataTables.min.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\css\\rowReorder.foundation.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\css\\rowReorder.foundation.css",
       "PackagePath": "staticwebassets\\DataTables\\RowReorder-1.4.1\\css\\rowReorder.foundation.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\css\\rowReorder.foundation.min.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\css\\rowReorder.foundation.min.css",
       "PackagePath": "staticwebassets\\DataTables\\RowReorder-1.4.1\\css\\rowReorder.foundation.min.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\css\\rowReorder.jqueryui.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\css\\rowReorder.jqueryui.css",
       "PackagePath": "staticwebassets\\DataTables\\RowReorder-1.4.1\\css\\rowReorder.jqueryui.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\css\\rowReorder.jqueryui.min.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\css\\rowReorder.jqueryui.min.css",
       "PackagePath": "staticwebassets\\DataTables\\RowReorder-1.4.1\\css\\rowReorder.jqueryui.min.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\css\\rowReorder.semanticui.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\css\\rowReorder.semanticui.css",
       "PackagePath": "staticwebassets\\DataTables\\RowReorder-1.4.1\\css\\rowReorder.semanticui.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\css\\rowReorder.semanticui.min.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\css\\rowReorder.semanticui.min.css",
       "PackagePath": "staticwebassets\\DataTables\\RowReorder-1.4.1\\css\\rowReorder.semanticui.min.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\js\\dataTables.rowReorder.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\js\\dataTables.rowReorder.js",
       "PackagePath": "staticwebassets\\DataTables\\RowReorder-1.4.1\\js\\dataTables.rowReorder.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\js\\dataTables.rowReorder.min.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\js\\dataTables.rowReorder.min.js",
       "PackagePath": "staticwebassets\\DataTables\\RowReorder-1.4.1\\js\\dataTables.rowReorder.min.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\js\\rowReorder.bootstrap.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\js\\rowReorder.bootstrap.js",
       "PackagePath": "staticwebassets\\DataTables\\RowReorder-1.4.1\\js\\rowReorder.bootstrap.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\js\\rowReorder.bootstrap.min.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\js\\rowReorder.bootstrap.min.js",
       "PackagePath": "staticwebassets\\DataTables\\RowReorder-1.4.1\\js\\rowReorder.bootstrap.min.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\js\\rowReorder.bootstrap4.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\js\\rowReorder.bootstrap4.js",
       "PackagePath": "staticwebassets\\DataTables\\RowReorder-1.4.1\\js\\rowReorder.bootstrap4.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\js\\rowReorder.bootstrap4.min.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\js\\rowReorder.bootstrap4.min.js",
       "PackagePath": "staticwebassets\\DataTables\\RowReorder-1.4.1\\js\\rowReorder.bootstrap4.min.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\js\\rowReorder.bootstrap5.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\js\\rowReorder.bootstrap5.js",
       "PackagePath": "staticwebassets\\DataTables\\RowReorder-1.4.1\\js\\rowReorder.bootstrap5.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\js\\rowReorder.bootstrap5.min.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\js\\rowReorder.bootstrap5.min.js",
       "PackagePath": "staticwebassets\\DataTables\\RowReorder-1.4.1\\js\\rowReorder.bootstrap5.min.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\js\\rowReorder.bulma.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\js\\rowReorder.bulma.js",
       "PackagePath": "staticwebassets\\DataTables\\RowReorder-1.4.1\\js\\rowReorder.bulma.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\js\\rowReorder.bulma.min.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\js\\rowReorder.bulma.min.js",
       "PackagePath": "staticwebassets\\DataTables\\RowReorder-1.4.1\\js\\rowReorder.bulma.min.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\js\\rowReorder.dataTables.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\js\\rowReorder.dataTables.js",
       "PackagePath": "staticwebassets\\DataTables\\RowReorder-1.4.1\\js\\rowReorder.dataTables.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\js\\rowReorder.dataTables.min.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\js\\rowReorder.dataTables.min.js",
       "PackagePath": "staticwebassets\\DataTables\\RowReorder-1.4.1\\js\\rowReorder.dataTables.min.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\js\\rowReorder.foundation.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\js\\rowReorder.foundation.js",
       "PackagePath": "staticwebassets\\DataTables\\RowReorder-1.4.1\\js\\rowReorder.foundation.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\js\\rowReorder.foundation.min.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\js\\rowReorder.foundation.min.js",
       "PackagePath": "staticwebassets\\DataTables\\RowReorder-1.4.1\\js\\rowReorder.foundation.min.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\js\\rowReorder.jqueryui.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\js\\rowReorder.jqueryui.js",
       "PackagePath": "staticwebassets\\DataTables\\RowReorder-1.4.1\\js\\rowReorder.jqueryui.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\js\\rowReorder.jqueryui.min.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\js\\rowReorder.jqueryui.min.js",
       "PackagePath": "staticwebassets\\DataTables\\RowReorder-1.4.1\\js\\rowReorder.jqueryui.min.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\js\\rowReorder.semanticui.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\js\\rowReorder.semanticui.js",
       "PackagePath": "staticwebassets\\DataTables\\RowReorder-1.4.1\\js\\rowReorder.semanticui.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\js\\rowReorder.semanticui.min.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\RowReorder-1.4.1\\js\\rowReorder.semanticui.min.js",
       "PackagePath": "staticwebassets\\DataTables\\RowReorder-1.4.1\\js\\rowReorder.semanticui.min.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\datatables.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\datatables.css",
       "PackagePath": "staticwebassets\\DataTables\\datatables.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\datatables.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\datatables.js",
       "PackagePath": "staticwebassets\\DataTables\\datatables.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\datatables.min.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\datatables.min.css",
       "PackagePath": "staticwebassets\\DataTables\\datatables.min.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\datatables.min.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\datatables.min.js",
       "PackagePath": "staticwebassets\\DataTables\\datatables.min.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\pdfmake-0.2.7\\pdfmake.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\pdfmake-0.2.7\\pdfmake.js",
       "PackagePath": "staticwebassets\\DataTables\\pdfmake-0.2.7\\pdfmake.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\pdfmake-0.2.7\\pdfmake.min.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\pdfmake-0.2.7\\pdfmake.min.js",
       "PackagePath": "staticwebassets\\DataTables\\pdfmake-0.2.7\\pdfmake.min.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\DataTables\\pdfmake-0.2.7\\vfs_fonts.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\DataTables\\pdfmake-0.2.7\\vfs_fonts.js",
       "PackagePath": "staticwebassets\\DataTables\\pdfmake-0.2.7\\vfs_fonts.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\css\\bg.jpg",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\css\\bg.jpg",
       "PackagePath": "staticwebassets\\css\\bg.jpg"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\css\\darkmode.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\css\\darkmode.css",
       "PackagePath": "staticwebassets\\css\\darkmode.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\css\\login.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\css\\login.css",
       "PackagePath": "staticwebassets\\css\\login.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\css\\old img.jpg",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\css\\old img.jpg",
       "PackagePath": "staticwebassets\\css\\old img.jpg"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\css\\sidebar.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\css\\sidebar.css",
       "PackagePath": "staticwebassets\\css\\sidebar.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\images\\android-chrome-192x192.png",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\images\\android-chrome-192x192.png",
       "PackagePath": "staticwebassets\\images\\android-chrome-192x192.png"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\images\\android-chrome-512x512.png",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\images\\android-chrome-512x512.png",
       "PackagePath": "staticwebassets\\images\\android-chrome-512x512.png"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\images\\apple-touch-icon.png",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\images\\apple-touch-icon.png",
       "PackagePath": "staticwebassets\\images\\apple-touch-icon.png"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\images\\favicon-32x32.png",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\images\\favicon-32x32.png",
       "PackagePath": "staticwebassets\\images\\favicon-32x32.png"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\images\\favicon.ico",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\images\\favicon.ico",
       "PackagePath": "staticwebassets\\images\\favicon.ico"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\images\\favicon.png",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\images\\favicon.png",
       "PackagePath": "staticwebassets\\images\\favicon.png"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\js\\darkmode.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\js\\darkmode.js",
       "PackagePath": "staticwebassets\\js\\darkmode.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\js\\datatable.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\js\\datatable.js",
       "PackagePath": "staticwebassets\\js\\datatable.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.new.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.new.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.new.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\.gitattributes",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\.gitattributes",
       "PackagePath": "staticwebassets\\lib\\toastr\\.gitattributes"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\.jscsrc",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\.jscsrc",
       "PackagePath": "staticwebassets\\lib\\toastr\\.jscsrc"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\.jshintrc",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\.jshintrc",
       "PackagePath": "staticwebassets\\lib\\toastr\\.jshintrc"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\.npmignore",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\.npmignore",
       "PackagePath": "staticwebassets\\lib\\toastr\\.npmignore"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\.travis.yml",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\.travis.yml",
       "PackagePath": "staticwebassets\\lib\\toastr\\.travis.yml"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\CHANGELOG.md",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\CHANGELOG.md",
       "PackagePath": "staticwebassets\\lib\\toastr\\CHANGELOG.md"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\README.md",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\README.md",
       "PackagePath": "staticwebassets\\lib\\toastr\\README.md"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\build\\toastr.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\build\\toastr.css",
       "PackagePath": "staticwebassets\\lib\\toastr\\build\\toastr.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\build\\toastr.js.map",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\build\\toastr.js.map",
       "PackagePath": "staticwebassets\\lib\\toastr\\build\\toastr.js.map"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\build\\toastr.min.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\build\\toastr.min.css",
       "PackagePath": "staticwebassets\\lib\\toastr\\build\\toastr.min.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\build\\toastr.min.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\build\\toastr.min.js",
       "PackagePath": "staticwebassets\\lib\\toastr\\build\\toastr.min.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\demo.html",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\demo.html",
       "PackagePath": "staticwebassets\\lib\\toastr\\demo.html"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\gulpfile.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\gulpfile.js",
       "PackagePath": "staticwebassets\\lib\\toastr\\gulpfile.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\karma.conf.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\karma.conf.js",
       "PackagePath": "staticwebassets\\lib\\toastr\\karma.conf.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\content\\content\\toastr.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\content\\content\\toastr.css",
       "PackagePath": "staticwebassets\\lib\\toastr\\nuget\\content\\content\\toastr.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\content\\content\\toastr.less",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\content\\content\\toastr.less",
       "PackagePath": "staticwebassets\\lib\\toastr\\nuget\\content\\content\\toastr.less"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\content\\content\\toastr.min.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\content\\content\\toastr.min.css",
       "PackagePath": "staticwebassets\\lib\\toastr\\nuget\\content\\content\\toastr.min.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\content\\content\\toastr.scss",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\content\\content\\toastr.scss",
       "PackagePath": "staticwebassets\\lib\\toastr\\nuget\\content\\content\\toastr.scss"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\content\\scripts\\toastr.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\content\\scripts\\toastr.js",
       "PackagePath": "staticwebassets\\lib\\toastr\\nuget\\content\\scripts\\toastr.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\content\\scripts\\toastr.min.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\content\\scripts\\toastr.min.js",
       "PackagePath": "staticwebassets\\lib\\toastr\\nuget\\content\\scripts\\toastr.min.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\content\\scripts\\toastr.min.js.map",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\content\\scripts\\toastr.min.js.map",
       "PackagePath": "staticwebassets\\lib\\toastr\\nuget\\content\\scripts\\toastr.min.js.map"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.0.0.nupkg",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.0.0.nupkg",
       "PackagePath": "staticwebassets\\lib\\toastr\\nuget\\toastr.1.0.0.nupkg"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.0.0.nuspec",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.0.0.nuspec",
       "PackagePath": "staticwebassets\\lib\\toastr\\nuget\\toastr.1.0.0.nuspec"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.0.1.nupkg",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.0.1.nupkg",
       "PackagePath": "staticwebassets\\lib\\toastr\\nuget\\toastr.1.0.1.nupkg"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.0.1.nuspec",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.0.1.nuspec",
       "PackagePath": "staticwebassets\\lib\\toastr\\nuget\\toastr.1.0.1.nuspec"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.0.2.nupkg",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.0.2.nupkg",
       "PackagePath": "staticwebassets\\lib\\toastr\\nuget\\toastr.1.0.2.nupkg"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.0.2.nuspec",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.0.2.nuspec",
       "PackagePath": "staticwebassets\\lib\\toastr\\nuget\\toastr.1.0.2.nuspec"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.0.3.nupkg",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.0.3.nupkg",
       "PackagePath": "staticwebassets\\lib\\toastr\\nuget\\toastr.1.0.3.nupkg"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.0.3.nuspec",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.0.3.nuspec",
       "PackagePath": "staticwebassets\\lib\\toastr\\nuget\\toastr.1.0.3.nuspec"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.1.0.nupkg",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.1.0.nupkg",
       "PackagePath": "staticwebassets\\lib\\toastr\\nuget\\toastr.1.1.0.nupkg"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.1.0.nuspec",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.1.0.nuspec",
       "PackagePath": "staticwebassets\\lib\\toastr\\nuget\\toastr.1.1.0.nuspec"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.1.1.nupkg",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.1.1.nupkg",
       "PackagePath": "staticwebassets\\lib\\toastr\\nuget\\toastr.1.1.1.nupkg"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.1.1.nuspec",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.1.1.nuspec",
       "PackagePath": "staticwebassets\\lib\\toastr\\nuget\\toastr.1.1.1.nuspec"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.1.2.nupkg",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.1.2.nupkg",
       "PackagePath": "staticwebassets\\lib\\toastr\\nuget\\toastr.1.1.2.nupkg"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.1.2.nuspec",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.1.2.nuspec",
       "PackagePath": "staticwebassets\\lib\\toastr\\nuget\\toastr.1.1.2.nuspec"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.1.3.nupkg",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.1.3.nupkg",
       "PackagePath": "staticwebassets\\lib\\toastr\\nuget\\toastr.1.1.3.nupkg"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.1.4.1.nupkg",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.1.4.1.nupkg",
       "PackagePath": "staticwebassets\\lib\\toastr\\nuget\\toastr.1.1.4.1.nupkg"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.1.4.1.nuspec",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.1.4.1.nuspec",
       "PackagePath": "staticwebassets\\lib\\toastr\\nuget\\toastr.1.1.4.1.nuspec"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.1.4.2.nupkg",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.1.4.2.nupkg",
       "PackagePath": "staticwebassets\\lib\\toastr\\nuget\\toastr.1.1.4.2.nupkg"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.1.4.2.nuspec",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.1.4.2.nuspec",
       "PackagePath": "staticwebassets\\lib\\toastr\\nuget\\toastr.1.1.4.2.nuspec"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.1.4.nupkg",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.1.4.nupkg",
       "PackagePath": "staticwebassets\\lib\\toastr\\nuget\\toastr.1.1.4.nupkg"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.1.4.nuspec",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.1.4.nuspec",
       "PackagePath": "staticwebassets\\lib\\toastr\\nuget\\toastr.1.1.4.nuspec"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.1.5.nupkg",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.1.5.nupkg",
       "PackagePath": "staticwebassets\\lib\\toastr\\nuget\\toastr.1.1.5.nupkg"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.1.5.nuspec",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.1.5.nuspec",
       "PackagePath": "staticwebassets\\lib\\toastr\\nuget\\toastr.1.1.5.nuspec"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.2.0.nupkg",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.2.0.nupkg",
       "PackagePath": "staticwebassets\\lib\\toastr\\nuget\\toastr.1.2.0.nupkg"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.2.0.nuspec",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.2.0.nuspec",
       "PackagePath": "staticwebassets\\lib\\toastr\\nuget\\toastr.1.2.0.nuspec"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.2.1.nupkg",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.2.1.nupkg",
       "PackagePath": "staticwebassets\\lib\\toastr\\nuget\\toastr.1.2.1.nupkg"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.2.1.nuspec",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.2.1.nuspec",
       "PackagePath": "staticwebassets\\lib\\toastr\\nuget\\toastr.1.2.1.nuspec"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.2.2.nupkg",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.2.2.nupkg",
       "PackagePath": "staticwebassets\\lib\\toastr\\nuget\\toastr.1.2.2.nupkg"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.2.2.nuspec",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.2.2.nuspec",
       "PackagePath": "staticwebassets\\lib\\toastr\\nuget\\toastr.1.2.2.nuspec"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.3.0.nupkg",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.3.0.nupkg",
       "PackagePath": "staticwebassets\\lib\\toastr\\nuget\\toastr.1.3.0.nupkg"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.3.0.nuspec",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.3.0.nuspec",
       "PackagePath": "staticwebassets\\lib\\toastr\\nuget\\toastr.1.3.0.nuspec"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.3.1.nupkg",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.3.1.nupkg",
       "PackagePath": "staticwebassets\\lib\\toastr\\nuget\\toastr.1.3.1.nupkg"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.3.1.nuspec",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.1.3.1.nuspec",
       "PackagePath": "staticwebassets\\lib\\toastr\\nuget\\toastr.1.3.1.nuspec"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.2.0.0-rc1.nupkg",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.2.0.0-rc1.nupkg",
       "PackagePath": "staticwebassets\\lib\\toastr\\nuget\\toastr.2.0.0-rc1.nupkg"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.2.0.0-rc1.nuspec",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.2.0.0-rc1.nuspec",
       "PackagePath": "staticwebassets\\lib\\toastr\\nuget\\toastr.2.0.0-rc1.nuspec"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.2.0.1.nupkg",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.2.0.1.nupkg",
       "PackagePath": "staticwebassets\\lib\\toastr\\nuget\\toastr.2.0.1.nupkg"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.2.0.1.nuspec",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.2.0.1.nuspec",
       "PackagePath": "staticwebassets\\lib\\toastr\\nuget\\toastr.2.0.1.nuspec"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.2.0.2.nupkg",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.2.0.2.nupkg",
       "PackagePath": "staticwebassets\\lib\\toastr\\nuget\\toastr.2.0.2.nupkg"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.2.0.2.nuspec",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.2.0.2.nuspec",
       "PackagePath": "staticwebassets\\lib\\toastr\\nuget\\toastr.2.0.2.nuspec"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.2.0.3.nupkg",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.2.0.3.nupkg",
       "PackagePath": "staticwebassets\\lib\\toastr\\nuget\\toastr.2.0.3.nupkg"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.2.0.3.nuspec",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\nuget\\toastr.2.0.3.nuspec",
       "PackagePath": "staticwebassets\\lib\\toastr\\nuget\\toastr.2.0.3.nuspec"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\package-lock.json",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\package-lock.json",
       "PackagePath": "staticwebassets\\lib\\toastr\\package-lock.json"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\package.json",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\package.json",
       "PackagePath": "staticwebassets\\lib\\toastr\\package.json"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\release checklist.md",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\release checklist.md",
       "PackagePath": "staticwebassets\\lib\\toastr\\release checklist.md"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\tests\\qunit\\qunit.css",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\tests\\qunit\\qunit.css",
       "PackagePath": "staticwebassets\\lib\\toastr\\tests\\qunit\\qunit.css"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\tests\\qunit\\qunit.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\tests\\qunit\\qunit.js",
       "PackagePath": "staticwebassets\\lib\\toastr\\tests\\qunit\\qunit.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\tests\\toastr-tests.html",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\tests\\toastr-tests.html",
       "PackagePath": "staticwebassets\\lib\\toastr\\tests\\toastr-tests.html"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\tests\\unit\\qunit-helper.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\tests\\unit\\qunit-helper.js",
       "PackagePath": "staticwebassets\\lib\\toastr\\tests\\unit\\qunit-helper.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\tests\\unit\\toastr-tests.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\tests\\unit\\toastr-tests.js",
       "PackagePath": "staticwebassets\\lib\\toastr\\tests\\unit\\toastr-tests.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\tests\\unit\\x.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\tests\\unit\\x.js",
       "PackagePath": "staticwebassets\\lib\\toastr\\tests\\unit\\x.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\toastr-icon.png",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\toastr-icon.png",
       "PackagePath": "staticwebassets\\lib\\toastr\\toastr-icon.png"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\toastr.js",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\toastr.js",
       "PackagePath": "staticwebassets\\lib\\toastr\\toastr.js"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\toastr.less",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\toastr.less",
       "PackagePath": "staticwebassets\\lib\\toastr\\toastr.less"
     },
     {
-      "Id": "C:\\Projects\\Dotnet\\MyProjects\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\toastr.scss",
+      "Id": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\wwwroot\\lib\\toastr\\toastr.scss",
       "PackagePath": "staticwebassets\\lib\\toastr\\toastr.scss"
     },
     {

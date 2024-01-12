@@ -65,9 +65,9 @@ app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
-// Map areas for additional controller routes
-app.MapControllerRoute(
-    name: "areas",
-    pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}");
+// // Map areas for additional controller routes
+// app.MapControllerRoute(
+//     name: "areas",
+//     pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
