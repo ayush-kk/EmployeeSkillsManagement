@@ -8,14 +8,12 @@ using EmployeeSkillManagement.Models;
 public class AdminController : Controller
 {
     private readonly ApplicationDbContext _dbContext;
-    private readonly UserManager<Admin> _userManager;
     private readonly SignInManager<Admin> _signInManager;
 
     // Constructor to initialize dependencies
-    public AdminController(ApplicationDbContext dbContext, UserManager<Admin> userManager, SignInManager<Admin> signInManager)
+    public AdminController(ApplicationDbContext dbContext, SignInManager<Admin> signInManager)
     {
         _dbContext = dbContext;
-        _userManager = userManager;
         _signInManager = signInManager;
     }
 
@@ -58,18 +56,10 @@ public class AdminController : Controller
             model.UserName = model.Email;
 
             // Create a new admin user
-            var result = await _userManager.CreateAsync(model, model.PASSWORD);
+            _dbContext.Users.Add(model);
+            _dbContext.SaveChanges();
 
-            if (result.Succeeded)
-            {
-                return RedirectToAction(nameof(Index));
-            }
-
-            // If creation fails, display error messages
-            foreach (var error in result.Errors)
-            {
-                ModelState.AddModelError(string.Empty, error.Description);
-            }
+            return RedirectToAction(nameof(Index));
         }
 
         return View(model);
@@ -111,6 +101,7 @@ public class AdminController : Controller
             _dbContext.SaveChanges();
             return RedirectToAction(nameof(Index));
         }
+
         return View(admin);
     }
 
@@ -148,6 +139,7 @@ public class AdminController : Controller
         // Remove the admin from the database
         _dbContext.Users.Remove(admin);
         _dbContext.SaveChanges();
+
         return RedirectToAction(nameof(Index));
     }
 
@@ -181,7 +173,6 @@ public class AdminController : Controller
         // If the control reaches here, it means there was a validation error or login failure
         return View(model);
     }
-
 
     // Handle the logout
     [HttpPost]
