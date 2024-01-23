@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\EmployeeSkillManagement.csproj": {}
+    "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\EmployeeSkillManagement.csproj": {}
   },
   "projects": {
-    "c:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\EmployeeSkillManagement.csproj": {
+    "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\EmployeeSkillManagement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\EmployeeSkillManagement.csproj",
+        "projectUniqueName": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\EmployeeSkillManagement.csproj",
         "projectName": "EmployeeSkillManagement",
-        "projectPath": "c:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\EmployeeSkillManagement.csproj",
+        "projectPath": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\EmployeeSkillManagement.csproj",
         "packagesPath": "C:\\Users\\AKUM1589\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\obj\\",
+        "outputPath": "C:\\Users\\AKUM1589\\Desktop\\My Projects\\Front End\\Project 6\\EmployeeSkillsManagement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AKUM1589\\AppData\\Roaming\\NuGet\\NuGet.Config"

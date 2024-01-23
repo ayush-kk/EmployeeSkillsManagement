@@ -358,3 +358,13 @@ C:\Users\AKUM1589\Desktop\My Projects\Front End\Project 6\EmployeeSkillsManageme
 C:\Users\AKUM1589\Desktop\My Projects\Front End\Project 6\EmployeeSkillsManagement\obj\Debug\net7.0\EmployeeSkillManagement.pdb
 C:\Users\AKUM1589\Desktop\My Projects\Front End\Project 6\EmployeeSkillsManagement\obj\Debug\net7.0\EmployeeSkillManagement.genruntimeconfig.cache
 C:\Users\AKUM1589\Desktop\My Projects\Front End\Project 6\EmployeeSkillsManagement\obj\Debug\net7.0\ref\EmployeeSkillManagement.dll
+C:\Users\AKUM1589\Desktop\My Projects\Front End\Project 6\EmployeeSkillsManagement\bin\Debug\net7.0\publish\web.config
+C:\Users\AKUM1589\Desktop\My Projects\Front End\Project 6\EmployeeSkillsManagement\bin\Debug\net7.0\publish\appsettings.Development.json
+C:\Users\AKUM1589\Desktop\My Projects\Front End\Project 6\EmployeeSkillsManagement\bin\Debug\net7.0\publish\appsettings.json
+C:\Users\AKUM1589\Desktop\My Projects\Front End\Project 6\EmployeeSkillsManagement\bin\Debug\net7.0\publish\EmployeeSkillManagement.deps.json
+C:\Users\AKUM1589\Desktop\My Projects\Front End\Project 6\EmployeeSkillsManagement\bin\Debug\net7.0\publish\EmployeeSkillManagement.runtimeconfig.json
+C:\Users\AKUM1589\Desktop\My Projects\Front End\Project 6\EmployeeSkillsManagement\bin\Debug\net7.0\publish\libman.json
+C:\Users\AKUM1589\Desktop\My Projects\Front End\Project 6\EmployeeSkillsManagement\bin\Debug\net7.0\publish\package-lock.json
+C:\Users\AKUM1589\Desktop\My Projects\Front End\Project 6\EmployeeSkillsManagement\bin\Debug\net7.0\publish\package.json
+C:\Users\AKUM1589\Desktop\My Projects\Front End\Project 6\EmployeeSkillsManagement\bin\Debug\net7.0\publish\wwwroot\lib\toastr\package-lock.json
+C:\Users\AKUM1589\Desktop\My Projects\Front End\Project 6\EmployeeSkillsManagement\bin\Debug\net7.0\publish\wwwroot\lib\toastr\package.json
